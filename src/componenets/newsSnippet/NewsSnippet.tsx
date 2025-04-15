@@ -10,7 +10,7 @@ import {
 } from 'antd';
 
 import './NewsSnippet.scss';
-import { NewsSnippetProps } from '../../types/NewsSnippet';
+import { NewsSnippetProps } from '../../types/NewsSnippet'
 import {
     GlobalOutlined,
     FlagOutlined,
