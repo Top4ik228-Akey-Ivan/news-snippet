@@ -2,6 +2,8 @@
 
 Приложение для отображения новостных сниппетов с возможностью просмотра оригинального источника и фильтрации по ключевым словам. *Проект доступен по адресу: [News Snippet на GitHub Pages](https://top4ik228-akey-ivan.github.io/news-snippet/)*
 
+![Snippets design]('../../public/image.png)
+
 ## Технологии
 
 - React 18 (TypeScript)
